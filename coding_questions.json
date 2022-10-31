@@ -1,0 +1,250 @@
+{
+    "coding_questions": [
+    {
+        "id": 1,
+        "questionType": "multiple_choice",
+        "questionText": "Which of the folliwng programming languages is the most low-level?",
+        "correctAnswer": "Assembly",
+        "options": [
+            "Java",
+            "C",
+            "Assembly",
+            "C++"
+        ]
+    },
+
+    {
+        "id": 2,
+        "questionType": "multiple_choice",
+        "questionText": "Which of the folliwng programming languages is the most low-level?",
+        "correctAnswer": "Assembly",
+        "options": [
+            "Java",
+            "C",
+            "Assembly",
+            "C++"
+        ]
+    },
+
+    {
+        "id": 3,
+        "questionType": "multiple_choice",
+        "questionText": "What is the specific use case of the CSS language?",
+        "correctAnswer": "Styling web pages",
+        "options": [
+            "Programming hardware",
+            "Creating mobile applications",
+            "Styling web pages",
+            "Mathematical utilization in engineering"
+        ]
+    },
+
+    {
+        "id": 4,
+        "questionType": "text_input",
+        "questionText": "What programming language are MOST video games programmed in?",
+        "correctAnswer": "C++",
+        "answerFieldId" : "correctAnswer_to_question"
+    },
+
+    {
+        "id": 5,
+        "questionType": "multiple_choice",
+        "questionText": "Which programming language is used for creating iOS apps today?",
+        "correctAnswer": "Swift",
+        "options": [
+            "Objective-C",
+            "Swift",
+            "Ruby",
+            "C#"
+        ]
+    },
+
+    {
+        "id": 6,
+        "questionType": "multiple_choice",
+        "questionText": "What is the most widely used IDE (Integrated Developement Environment) by programmers?",
+        "correctAnswer": "Visual Studio Code",
+        "options": [
+            "Atom",
+            "Sublime",
+            "Vim",
+            "Visual Studio Code"
+        ]
+    },
+
+    {
+        "id": 7,
+        "questionType": "true_false",
+        "questionText": "A recursive function is a function that calls itself",
+        "correctAnswer": "true",
+        "options": [
+          "true",
+          "false"
+        ]
+    },
+
+    {
+        "id": 8,
+        "questionType": "true_false",
+        "questionText": "Individual is a valid primitive data type",
+        "correctAnswer": "false",
+        "options": [
+            "true",
+            "false"
+        ]
+    },
+
+    {
+        "id": 9,
+        "questionType": "multiple_choice",
+        "questionText": "Which is NOT a valid data structure?",
+        "correctAnswer": "Linked Table",
+        "options": [
+            "Array",
+            "Linked Table",
+            "HashMap",
+            "Stack"
+        ]
+    },
+
+    {
+        "id": 10,
+        "questionType": "text_input",
+        "questionText": "In Python, what keyword do you use to declare a function?",
+        "correctAnswer": "def",
+        "answerFieldId" : "correctAnswer_to_question"
+    },
+
+    {
+        "id": 11,
+        "questionType": "multiple_choice",
+        "questionText": "Which data structure has an average search of O(log n)?",
+        "correctAnswer": "Binary Tree",
+        "options": [
+            "Array",
+            "LinkedList",
+            "HashMap",
+            "Binary Tree"
+        ]
+    },
+
+    {
+        "id": 12,
+        "questionType": "multiple_choice",
+        "questionText": "Which coding language is most commonly used for databases?",
+        "correctAnswer": "SQL",
+        "options": [
+            "Python",
+            "R",
+            "JavaScript",
+            "SQL"
+        ]
+    },
+
+    {
+        "id": 13,
+        "questionType": "multiple_choice",
+        "questionText": "Which programming language is mostly used for Android apps?",
+        "correctAnswer": "Kotlin",
+        "options": [
+            "Kotlin",
+            "Swift",
+            "React Native",
+            "C++"
+        ]
+    },
+
+    {
+        "id": 14,
+        "questionType": "multiple_choice",
+        "questionText": "What is the time complexity of a nested for-loop?",
+        "correctAnswer": "O(n^2)",
+        "options": [
+            "O(log n)",
+            "O(n^2)",
+            "O(n log n)",
+            "O(2^n)"
+        ]
+    },
+
+    {
+        "id": 15,
+        "questionType": "multiple_choice",
+        "questionText": "Which scripting language is commonly used in Unix-based operating systems?",
+        "correctAnswer": "BASH",
+        "options": [
+            "BASIC",
+            "BASH",
+            "BATCH",
+            "PowerShell"
+        ]
+    },
+
+    {
+        "id": 16,
+        "questionType": "multiple_choice",
+        "questionText": "Which is considered to be the oldest programming language?",
+        "correctAnswer": "Fortran",
+        "options": [
+            "Cobol",
+            "Fortran",
+            "Assembly",
+            "Lisp"
+        ]
+    },
+
+    {
+        "id": 17,
+        "questionType": "multiple_choice",
+        "questionText": "What was the original name for JavaScript?",
+        "correctAnswer": "Mocha",
+        "options": [
+            "Netbeans",
+            "Mocha",
+            "LiveScript",
+            "Netscape"
+        ]
+    },
+
+    {
+        "id": 18,
+        "questionType": "multiple_choice",
+        "questionText": "Which data structure is first-in last-out?",
+        "correctAnswer": "Stack",
+        "options": [
+            "Stack",
+            "Array",
+            "Queue",
+            "Binary Tree"
+        ]
+    },
+
+    {
+        "id": 19,
+        "questionType": "multiple_choice",
+        "questionText": "Which data structure is first-in first-out?",
+        "correctAnswer": "Queue",
+        "options": [
+            "Stack",
+            "Array",
+            "Queue",
+            "Binary"
+        ]
+    },
+
+    {
+        "id": 20,
+        "questionType": "image_choice",
+        "questionText": "Which is the correct logo for Swift?",
+        "correctAnswer": "images/swift.png",
+        "options": [
+            "images/java-logo.png",
+            "imges/python-logo.png",
+            "images/swift.png",
+            "images/VisualStudio-logo.png"
+        ]
+    }
+
+    ]
+}
